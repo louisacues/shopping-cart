@@ -12,6 +12,6 @@ const Template: ComponentStory<typeof Button> = (args) => (
 
 export const ButtonDefault = Template.bind({})
 ButtonDefault.args = {
-  children: `CLICK ME`,
+  children: `louisa`,
   onClick: () => alert('hello')
 }

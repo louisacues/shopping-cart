@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "SF";
+    src: url('../public/assets/fonts/sf-ui-display-medium.woff');
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: "SF";
+    src: url('../public/assets/fonts/sf-ui-display-semibold.woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: "SF";
+    src: url('../public/assets/fonts/sf-ui-display-bold.woff');
+    font-weight: 600;
+}

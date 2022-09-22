@@ -8,7 +8,7 @@ export interface IButton {
 export function Button(props: IButton) {
   const { children , ...rest } = props
   return (
-    <button className={`font-primary-font bg-[#F40032] px-1 py-0.5  rounded-0.4 text-white`} {...rest}>
+    <button className={`font-primary-font bg-blue px-1 py-0.5  rounded-0.4 text-white`} {...rest}>
       <span className={`text-1.8 lg:text-2.2`}>
         {children}
       </span>

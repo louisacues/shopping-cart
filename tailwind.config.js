@@ -19,6 +19,7 @@ module.exports = {
       fontFamily: {
         'primary-font': 'Montserrat',
         'secondary-font': 'Lato',
+        'sf': "SF"
       },
       colors: {
         'success': '#07bc0c',

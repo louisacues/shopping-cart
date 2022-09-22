@@ -2,7 +2,8 @@ import React from 'react'
 import { addDecorator } from '@storybook/react'
 import '../src/styles/storybook.css'
 import '../src/styles/fonts.css';
-
+import './fonts.css';
+import '../src/styles/custom.css';
 
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
